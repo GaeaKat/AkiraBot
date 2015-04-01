@@ -1,0 +1,8 @@
+db/data.sqlite2
+
+Gemfile.lock
+.project
+debug.log
+*.class
+*.pyc
+*.pyo
