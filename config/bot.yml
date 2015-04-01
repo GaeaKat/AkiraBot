@@ -1,0 +1,9 @@
+server:
+  ip: irc.justtrance.net
+  name: Aika
+  channels: ["#triggertest"]
+  realname: Aika
+  username: Aika
+  password: password
+bot:
+  masters: [Innu , twilightL]
