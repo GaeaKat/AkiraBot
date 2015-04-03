@@ -17,4 +17,5 @@ def getName(user)
     if(user.authed?)
       name=user.authname
     end
+    name
 end
