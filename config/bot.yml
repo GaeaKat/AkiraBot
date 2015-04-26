@@ -4,6 +4,6 @@ server:
   channels: ["#triggertest"]
   realname: Aika2
   username: Aika
-  password: pass
+  password: password
 bot:
   masters: [Innu , twilightL]
